@@ -14,6 +14,7 @@
 		1C9B8C172767440600AAFE93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C9B8C152767440600AAFE93 /* Main.storyboard */; };
 		1C9B8C192767440700AAFE93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C9B8C182767440700AAFE93 /* Assets.xcassets */; };
 		1C9B8C1C2767440700AAFE93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C9B8C1A2767440700AAFE93 /* LaunchScreen.storyboard */; };
+		1C9B8C2427674A2300AAFE93 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1C9B8C2327674A2200AAFE93 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		1C9B8C182767440700AAFE93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C9B8C1B2767440700AAFE93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C9B8C1D2767440700AAFE93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C9B8C2327674A2200AAFE93 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		55897E81A345D7E9A99F1C11 /* Pods-Movie Flix.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie Flix.release.xcconfig"; path = "Target Support Files/Pods-Movie Flix/Pods-Movie Flix.release.xcconfig"; sourceTree = "<group>"; };
 		743B32CA4A477015753BFC4F /* Pods-Movie Flix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie Flix.debug.xcconfig"; path = "Target Support Files/Pods-Movie Flix/Pods-Movie Flix.debug.xcconfig"; sourceTree = "<group>"; };
 		F33A8C04C2FA0EEF6C2FFEA4 /* Pods_Movie_Flix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Movie_Flix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,13 +50,13 @@
 				743B32CA4A477015753BFC4F /* Pods-Movie Flix.debug.xcconfig */,
 				55897E81A345D7E9A99F1C11 /* Pods-Movie Flix.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
 		1C9B8C032767440600AAFE93 = {
 			isa = PBXGroup;
 			children = (
+				1C9B8C2327674A2200AAFE93 /* README.md */,
 				1C9B8C0E2767440600AAFE93 /* Movie Flix */,
 				1C9B8C0D2767440600AAFE93 /* Products */,
 				1C7B83803ED27608B1C2E63D /* Pods */,
@@ -154,6 +156,7 @@
 			files = (
 				1C9B8C1C2767440700AAFE93 /* LaunchScreen.storyboard in Resources */,
 				1C9B8C192767440700AAFE93 /* Assets.xcassets in Resources */,
+				1C9B8C2427674A2300AAFE93 /* README.md in Resources */,
 				1C9B8C172767440600AAFE93 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
